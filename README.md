@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./Cowboy%20Bebop%20Smoking%20GIF.gif" width="750" />
+</div>
+
+<br/>
+
 # 💫 About Me:
 Hello my name is Samarth<br>pursuing computer science engineering
 
