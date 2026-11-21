@@ -5,7 +5,7 @@
 <br/>
 
 # 💫 About Me:
-Hello my name is Samarth<br>pursuing computer science engineering
+Hello my name is Samarth<br>pursuing Computer Science Engineering
 
 
 ## 🌐 Socials:
